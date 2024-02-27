@@ -27,7 +27,7 @@ document.getElementById('registerForm').addEventListener('submit', function(even
         document.getElementById('registerErrorMessage').style.display = 'block';
     } else {
         // Hiển thị thông báo đăng ký thành công
-            alert('dang ki thanh cong')
+            alert('Đăng ký thành công')
         // document.getElementById('registerErrorMessage').style.display = 'none';
         // document.getElementById('registerSuccessMessage').style.display = 'block';
         // Ẩn form đăng ký và hiển thị form đăng nhập
